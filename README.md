@@ -3,4 +3,4 @@
 ###### Purpose:
     To Replicate home page of Space X
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/design/spacex-clone-homepage/).
+#### Dear Students, Check out the live app [here] https://priyanka23-brs.github.io/goal-7/
